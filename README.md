@@ -49,8 +49,7 @@ This project requires Python 3.8+ and the packages listed in `requirements.txt`.
 
 ## Usage
 
-1. Data folder has been added to .gitignore. Upload the files to the data folder
+1. Data folder has been added to .gitignore. Create and Upload the files to the data folder
 2. Start with the EDA notebooks to understand the dataset
 3. Explore the modeling notebooks to see how the baseline model was built
-4. Use the scripts in the `src` directory for your own analysis
 
