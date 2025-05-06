@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+openpyxl
+plotly
+folium
+nbformat>=4.2.0
+hyperopt
+setuptools
